@@ -1,6 +1,6 @@
 #海外服务
 
-# > Emby
+#>Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
 HOST-SUFFIX,tv.emby.media,海外服务
 HOST-SUFFIX,emby.media,海外服务
@@ -14,18 +14,18 @@ IP-CIDR,38.94.111.242/32,海外服务
 IP-CIDR,38.94.111.242/22,海外服务
 
 
-# > UA
+#>UA
 USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*,海外服务
 USER-AGENT,AwemeI18n*,海外服务
 USER-AGENT,Coinbase*,海外服务
 USER-AGENT,Instagram*,海外服务
-USER-AGENT,Resilio Sync*,海外服务
+USER-AGENT,ResilioSync*,海外服务
 USER-AGENT,WhatsApp*,海外服务
 
-# > Google Voice
+#>GoogleVoice
 HOST,voice.telephony.goog,海外服务
 
-# > Line
+#>Line
 HOST-SUFFIX,lin.ee,海外服务
 HOST-SUFFIX,line.me,海外服务
 HOST-SUFFIX,line.naver.jp,海外服务
@@ -34,26 +34,26 @@ HOST-SUFFIX,line-cdn.net,海外服务
 HOST-SUFFIX,line-scdn.net,海外服务
 HOST-SUFFIX,nhncorp.jp,海外服务
 
-# > Pornhub
+#>Pornhub
 HOST-SUFFIX,phncdn.com,海外服务
 HOST-SUFFIX,phprcdn.com,海外服务
 HOST-SUFFIX,pornhub.com,海外服务
 HOST-SUFFIX,pornhubpremium.com,海外服务
 
-# > Spark
+#>Spark
 HOST-SUFFIX,api.amplitude.com,海外服务
 HOST-SUFFIX,app.smartmailcloud.com,海外服务
 HOST-SUFFIX,gate.hockeyapp.net,海外服务
 HOST-SUFFIX,smartmailcloud.com,海外服务
 
-# > Steam
+#>Steam
 HOST-SUFFIX,fanatical.com,海外服务
 HOST-SUFFIX,humblebundle.com,海外服务
 HOST-SUFFIX,steamcommunity.com,海外服务
 HOST-SUFFIX,steampowered.com,海外服务
 HOST-SUFFIX,steamstatic.com,海外服务
 
-# > TikTok
+#>TikTok
 USER-AGENT,TikTok*,海外服务
 HOST-SUFFIX,muscdn.com,海外服务
 HOST-SUFFIX,musical.ly,海外服务
@@ -65,10 +65,10 @@ HOST-SUFFIX,tik-tokapi.com,海外服务
 HOST-SUFFIX,api.tiktokv.com,海外服务
 
 
-# > Zooba
+#>Zooba
 USER-AGENT,battleroyale*,海外服务
 
-# > Others
+#>Others
 HOST-SUFFIX,jable.tvm,海外服务
 HOST-SUFFIX,qxzy.top,海外服务
 HOST-SUFFIX,qixinys.com,海外服务
@@ -96,7 +96,7 @@ HOST-SUFFIX,xunlangbot.com,海外服务
 HOST-SUFFIX,bet365.com,海外服务
 IP-CIDR,5.226.179.10/22,海外服务
 
- 
+
 #Discord
 HOST-SUFFIX,discord.co,海外服务
 HOST-SUFFIX,discord.com,海外服务
@@ -109,7 +109,7 @@ HOST-SUFFIX,discordapp.com,海外服务
 HOST-SUFFIX,discordapp.net,海外服务
 HOST-SUFFIX,discordapp.page.link,海外服务
 
-# > Spotify
+#>Spotify
 HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,海外服务
 HOST-SUFFIX,byspotify.com,海外服务
 HOST-SUFFIX,heads4-ak-spotify-com.akamaized.net,海外服务
@@ -132,7 +132,7 @@ USER-AGENT,*Spotify*,海外服务
 USER-AGENT,Spotify*,海外服务
 IP-CIDR,35.186.224.47/32,海外服务
 
-# > YouTube 
+#>YouTube
 USER-AGENT,*youtube*,海外服务
 USER-AGENT,YouTube*,海外服务
 HOST-KEYWORD,youtube,海外服务
@@ -143,7 +143,7 @@ HOST-SUFFIX,youtu.be,海外服务
 HOST,youtubei.googleapis.com,海外服务
 HOST-SUFFIX,ytimg.com,海外服务
 
-#> YouTubeMusic
+#>YouTubeMusic
 HOST,music.youtube.com,海外服务
 USER-AGENT,*YouTubeMusic*,海外服务
 USER-AGENT,*com.google.ios.youtubemusic*,海外服务
@@ -179,7 +179,7 @@ IP-CIDR,202.160.128.0/22,海外服务
 IP-CIDR,209.237.192.0/19,海外服务
 IP-CIDR,69.195.160.0/19,海外服务
 
-# > Top blocked sites
+#>Topblockedsites
 HOST-SUFFIX,2o7.net,海外服务
 HOST-SUFFIX,4everProxy.com,海外服务
 HOST-SUFFIX,4shared.com,海外服务
@@ -761,7 +761,7 @@ HOST-SUFFIX,zeutch.com,海外服务
 HOST-SUFFIX,zoom.us,海外服务
 HOST-SUFFIX,zynamics.com,海外服务
 
-# > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
+#>ForcesomedomainswhicharefuckedbyGFWwhileresolvingDNS,ordonotrespectthesystemProxy
 HOST-KEYWORD,appledaily,海外服务
 HOST-KEYWORD,beetalk,海外服务
 HOST-KEYWORD,blogspot,海外服务
@@ -819,7 +819,7 @@ HOST-SUFFIX,webmproject.org,海外服务
 HOST-SUFFIX,webrtc.org,海外服务
 HOST-KEYWORD,dlercloud,海外服务
 
-# > Amazon
+#>Amazon
 IP-CIDR,13.32.0.0/16,海外服务
 IP-CIDR,13.33.0.0/16,海外服务
 IP-CIDR,13.35.0.0/17,海外服务
@@ -837,7 +837,7 @@ IP-CIDR,54.226.0.0/15,海外服务
 IP-CIDR,54.230.156.0/22,海外服务
 IP-CIDR,54.93.0.0/16,海外服务
 
-# > Facebook
+#>Facebook
 IP-CIDR,103.4.96.0/22,海外服务
 IP-CIDR,129.134.0.0/17,海外服务
 IP-CIDR,157.240.0.0/17,海外服务
@@ -854,11 +854,11 @@ IP-CIDR,69.171.224.0/19,海外服务
 IP-CIDR,69.63.176.0/20,海外服务
 IP-CIDR,74.119.76.0/22,海外服务
 
-# > Google
+#>Google
 IP-CIDR,173.194.0.0/16,海外服务
 IP-CIDR,74.125.0.0/16,海外服务
 
-# > Kakao Talk
+#>KakaoTalk
 IP-CIDR,1.201.0.0/24,海外服务
 IP-CIDR,103.246.56.0/22,海外服务
 IP-CIDR,103.27.148.0/22,海外服务
@@ -866,7 +866,7 @@ IP-CIDR,110.76.140.0/22,海外服务
 IP-CIDR,113.61.104.0/22,海外服务
 IP-CIDR,27.0.236.0/22,海外服务
 
-# > LINE
+#>LINE
 IP-CIDR,103.2.28.0/22,海外服务
 IP-CIDR,119.235.224.0/21,海外服务
 IP-CIDR,119.235.232.0/23,海外服务
@@ -881,19 +881,19 @@ IP-CIDR,203.104.128.0/20,海外服务
 IP-CIDR,203.174.66.64/26,海外服务
 IP-CIDR,203.174.77.0/24,海外服务
 
-# > Potato Chat
+#>PotatoChat
 IP-CIDR,13.251.24.157/24,海外服务
 IP-CIDR,13.251.41.203/24,海外服务
 IP-CIDR,17.252.156.147/24,海外服务
 IP-CIDR,17.252.157.26/24,海外服务
 
-# > SoftLayer
+#>SoftLayer
 IP-CIDR,74.86.0.0/16,海外服务
 IP-CIDR,75.126.0.0/16,海外服务
 IP-CIDR,174.37.0.0/16,海外服务
 IP-CIDR,208.43.0.0/16,海外服务
 
-# > Others
+#>Others
 HOST,jdsharedresourcescdn.azureedge.net,海外服务
 
 HOST-SUFFIX,account-paypal.info,海外服务
@@ -1698,7 +1698,7 @@ IP-CIDR,52.58.56.244/32,海外服务
 IP-CIDR,54.178.26.110/32,海外服务
 IP-CIDR,69.28.51.148/32,海外服务
 
-#clubhouse ip
+#clubhouseip
 HOST,ap-oversea-tls.agora.io,海外服务
 HOST,ap-oversea.agora.io,海外服务
 HOST,ap-oversea2.agora.io,海外服务
@@ -1792,6 +1792,23 @@ IP-CIDR,52.52.84.170/32,海外服务
 IP-CIDR,52.58.56.244/32,海外服务
 IP-CIDR,54.178.26.110/32,海外服务
 IP-CIDR,69.28.51.148/32,海外服务
+
+HOST-SUFFIX,free4444.xyz,REJECT
+HOST-SUFFIX,yudou66.com,REJECT
+HOST-SUFFIX,v2rayshare.com,REJECT
+HOST-SUFFIX,clashnode.com,REJECT
+HOST-SUFFIX,iyio.net,REJECT
+HOST-SUFFIX,sub.v1.mk,REJECT
+HOST-SUFFIX,v2rayshare.com,REJECT
+HOST-SUFFIX,freenode.me,REJECT
+HOST-SUFFIX,18comic.vip,REJECT
+HOST-SUFFIX,jmcomic.asia,REJECT
+HOST-SUFFIX,gdav.com,REJECT
+HOST-SUFFIX,webtoonscan.com,REJECT
+HOST-SUFFIX,jable.tv,REJECT
+HOST-SUFFIX,javdb.com,REJECT
+HOST-SUFFIX,mangaforfree.net,REJECT
+HOST-SUFFIX,manhwascan.net,REJECT
 
 HOST,api.okzy.tv,海外服务
 HOST,apple.comscoreresearch.com,海外服务
