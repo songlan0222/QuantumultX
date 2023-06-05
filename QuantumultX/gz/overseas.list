@@ -1810,6 +1810,15 @@ HOST-SUFFIX,jable.tv,REJECT
 HOST-SUFFIX,javdb.com,REJECT
 HOST-SUFFIX,mangaforfree.net,REJECT
 HOST-SUFFIX,manhwascan.net,REJECT
+HOST-SUFFIX,manga18.me,REJECT
+HOST-SUFFIX,allanime.to,REJECT
+HOST-SUFFIX,manhwaclub.net,REJECT
+HOST-SUFFIX,mangahihi.com,REJECT
+HOST-SUFFIX,manhwalover.com,REJECT
+HOST-SUFFIX,manhwa-raw.com,REJECT
+HOST-SUFFIX,mangaforfree.com,REJECT
+HOST-SUFFIX,comicwebtoons.com,REJECT
+HOST-SUFFIX,18comic.company,REJECT
 
 HOST,api.okzy.tv,海外服务
 HOST,apple.comscoreresearch.com,海外服务
