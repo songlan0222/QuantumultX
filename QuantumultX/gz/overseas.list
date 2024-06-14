@@ -1819,6 +1819,10 @@ HOST-SUFFIX,manhwa-raw.com,REJECT
 HOST-SUFFIX,mangaforfree.com,REJECT
 HOST-SUFFIX,comicwebtoons.com,REJECT
 HOST-SUFFIX,18comic.company,REJECT
+HOST-SUFFIX,h2nrz2.ilebjy.com,REJECT
+HOST-SUFFIX,ilebjy.com,REJECT
+HOST-SUFFIX,18comic.*,REJECT
+HOST-SUFFIX,javday.tv,REJECT
 
 HOST,api.okzy.tv,海外服务
 HOST,apple.comscoreresearch.com,海外服务
