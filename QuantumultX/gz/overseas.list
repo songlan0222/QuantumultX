@@ -1803,6 +1803,13 @@ HOST-SUFFIX,sub.v1.mk,REJECT
 HOST-SUFFIX,v2rayshare.com,REJECT
 HOST-SUFFIX,freenode.me,REJECT
 HOST-SUFFIX,18comic.vip,REJECT
+HOST-SUFFIX,jmcomictwo.org,REJECT
+HOST-SUFFIX,18comic.org,REJECT
+HOST-SUFFIX,18-comicblade.vip,REJECT
+HOST-SUFFIX,18comic-erdtree.cc,REJECT
+HOST-SUFFIX,18comic-erdtree.org,REJECT
+HOST-SUFFIX,jmcomic.me,REJECT
+HOST-SUFFIX,jmcomic1.me,REJECT
 HOST-SUFFIX,jmcomic.asia,REJECT
 HOST-SUFFIX,gdav.com,REJECT
 HOST-SUFFIX,webtoonscan.com,REJECT
@@ -1818,11 +1825,23 @@ HOST-SUFFIX,manhwalover.com,REJECT
 HOST-SUFFIX,manhwa-raw.com,REJECT
 HOST-SUFFIX,mangaforfree.com,REJECT
 HOST-SUFFIX,comicwebtoons.com,REJECT
+<<<<<<< HEAD
+HOST-SUFFIX,jm-comic2.org,REJECT
+HOST-SUFFIX,jmcomic1.bet,REJECT
+HOST-SUFFIX,18comic.org,REJECT
+HOST-SUFFIX,jmcomic.me,REJECT
+HOST-SUFFIX,jmcomic1.me,REJECT
+HOST-SUFFIX,jm-comic1.org,REJECT
+HOST-SUFFIX,jm-comic.org,REJECT
+HOST-SUFFIX,jm365.xyz,REJECT
+
+=======
 HOST-SUFFIX,18comic.company,REJECT
 HOST-SUFFIX,h2nrz2.ilebjy.com,REJECT
 HOST-SUFFIX,ilebjy.com,REJECT
 HOST-SUFFIX,18comic.*,REJECT
 HOST-SUFFIX,javday.tv,REJECT
+>>>>>>> 9b973faa6e948e39ec61c4078e90dbd822f64826
 
 HOST,api.okzy.tv,海外服务
 HOST,apple.comscoreresearch.com,海外服务
